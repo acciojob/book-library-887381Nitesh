@@ -10,3 +10,9 @@ body{
 h1{
 	text-align:center;
 }
+.book p{
+	color:#777777;
+}
+.price{
+	background-color:#2ecc71;
+}
